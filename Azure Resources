@@ -1,0 +1,135 @@
+Compute Resources
+=================
+
+Virtual Machines 
+-----------------
+
+linux_virtual_machine_key , linux_virtual_machine_pass, virtual_machines_availability_sets, virtual_machine_scale_sets, windows_virtual_machine
+
+function app or Azure Functions
+---------------------------------
+
+aap_service_functionapp, aap_service_functionapp_python
+
+App Service 
+------------
+app_service_dotnet, app_service_docker_basic
+
+
+
+Docker
+------
+
+azuredockercontainer_registry,  dockercontainer_networks, dockercontainer_volumes
+
+
+
+Azure Kubernetes Services (AKS)
+-------------------------------
+
+
+
+Networking
+===========
+
+1. Virtual Network (VNet)
+
+2. Subnet
+
+3. Network Security Groups
+
+4. Load Balancer
+
+5. Application Gateway
+
+
+Databases
+=========
+
+1. Azure SQL
+
+2. Azure MySQL
+
+3. Azure Postgres
+
+4. Azure Cosmos
+
+5. Azure Blob Storage
+
+Messaging & Events
+==================
+
+1. Storage Queue
+
+2. Event Grid
+
+3. Service Bus
+
+4. Event Hubs
+
+Authentication
+==============
+
+1. RBAC
+
+
+Monitoring
+===========
+
+1. Set up Alerts
+
+2. Read logs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
