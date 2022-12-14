@@ -26,46 +26,80 @@ azuredockercontainer_registry,  dockercontainer_networks, dockercontainer_volume
 
 Azure Kubernetes Services (AKS)
 -------------------------------
-
+kubernetes_aci_connector, kubernetes_cluster
 
 
 Networking
 ===========
 
 1. Virtual Network (VNet)
+-------------------------
+virtual_network_basic, virtual_network_gateway,virtual_network_peering
 
 2. Subnet
+----------
+multiple_subnets
 
 3. Network Security Groups
+---------------------------
+networkinterface_appsecurity, network_security_group, network_security_group_rules
 
 4. Load Balancer
+----------------
+load_balancer
+
 
 5. Application Gateway
-
+----------------------
+application_gateway
 
 Databases
 =========
 
 1. Azure SQL
+-------------
+azuresql_database
 
 2. Azure MySQL
+-------------
+mysqldatabase
 
 3. Azure Postgres
+-----------------
+postgressql_database
 
 4. Azure Cosmos
+---------------
+cosmos_database
 
-5. Azure Blob Storage
+5. Azure Redis
+--------------
+redis_backup, redis_basics, redis_cluster, redis_standard
+
+6. Azure Blob Storage 
+---------------------
+
+storage_fileshare, storage_container, storage_account
 
 Messaging & Events
 ==================
 
-1. Storage Queue
+1. Storage Queue 
+----------------
+storage_queue
 
 2. Event Grid
+--------------
+event_grid_subscription,  event_grid_topic_subscription
 
 3. Service Bus
+--------------
+
+service_bus_forwarding,service_bus_basic
 
 4. Event Hubs
+-------------
+event_hub
 
 Authentication
 ==============
